@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(150deg, #1f005c, #6c358e, #b56fc3, #ffaefb);
+    text-align: center;
+}
+.heading{
+    background: #ffaefb;
+    margin: 0;
+    height: 50;
+    color: black;
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+}
+.heading:hover{
+    font-size: 30px;
+}
+.link{
+    background-color: #1f005c;
+    width: 80px;
+    border-radius: 10px;
+    float: right;
+}
+.bton{
+    width: 30%;
+    height: 10%;
+    font-size: 23px;
+    border-radius: 50px;
+    background: #ffaefb;
+    color: black;
+}
